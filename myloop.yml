@@ -8,6 +8,6 @@
          state: present
 
       loop:
-        -get
-        -tree
-        -wget
+        - get
+        - tree
+        - wget
